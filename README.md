@@ -46,6 +46,7 @@ Actions: "Send Email" or "Webhook"
  Enter your help desk email (e.g., helpdesk@darthvader.com)
 
 5 Maintenance Tips
+
 ✔ Check daily:
 
 Verify logs are coming in (index=_internal)
