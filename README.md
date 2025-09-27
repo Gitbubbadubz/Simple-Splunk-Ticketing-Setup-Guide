@@ -1,4 +1,4 @@
-# Simple-Splunk-Ticketing-Setup-Guide
+# Simple-Splunk-Setup-Guide
 A beginner-friendly guide to setting up Splunk
 
 1. Getting Started
